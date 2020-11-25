@@ -2,81 +2,107 @@
 \contentsline {section}{\numberline {1}Задание 1}{4}%
 \contentsline {subsection}{\numberline {1.1}Постановка задачи}{4}%
 \contentsline {subsection}{\numberline {1.2}Теоретическая часть}{4}%
-\contentsline {paragraph}{Моделирование распределений}{4}%
-\contentsline {paragraph}{Отсутствие последействия}{5}%
-\contentsline {paragraph}{Игра в орлянку}{5}%
+\contentsline {paragraph}{Моделирование распределений.}{4}%
+\contentsline {paragraph}{Отсутствие последействия.}{5}%
+\contentsline {paragraph}{Игра в орлянку.}{5}%
 \contentsline {subsection}{\numberline {1.3}Результаты работы программы}{5}%
-\contentsline {paragraph}{Проверка датчика биномиального распределения}{5}%
-\contentsline {section}{\numberline {2}Задание 2}{6}%
-\contentsline {subsection}{\numberline {2.1}Постановка задачи}{6}%
-\contentsline {subsection}{\numberline {2.2}Теоретическая часть}{6}%
-\contentsline {paragraph}{Моделирование сингулярного распределения}{6}%
-\contentsline {paragraph}{Критерий Колмогорова}{7}%
-\contentsline {paragraph}{Критерий Смирнова}{7}%
-\contentsline {paragraph}{Моменты сингулярного распределения}{8}%
-\contentsline {subsection}{\numberline {2.3}Результаты работы программы}{8}%
-\contentsline {section}{\numberline {3}Задание 3}{8}%
-\contentsline {subsection}{\numberline {3.1}Постановка задачи}{8}%
-\contentsline {subsection}{\numberline {3.2}Теоретическая часть}{9}%
-\contentsline {paragraph}{Экспоненциальное распределение}{9}%
-\contentsline {paragraph}{Моделирование распределения Пуассона}{10}%
-\contentsline {paragraph}{Критерий $\chi ^2$ Пирсона}{10}%
-\contentsline {paragraph}{Моделирование нормального распределения}{10}%
-\contentsline {paragraph}{Критерий Стьюдента}{11}%
-\contentsline {paragraph}{Критерий Фишера}{11}%
-\contentsline {subsection}{\numberline {3.3}Результаты работы программы}{11}%
-\contentsline {section}{\numberline {4}Задание 4}{11}%
-\contentsline {subsection}{\numberline {4.1}Постановка задачи}{11}%
-\contentsline {subsection}{\numberline {4.2}Теоретическая часть}{12}%
-\contentsline {paragraph}{Моделирование распределения Коши}{12}%
-\contentsline {paragraph}{Метод элиминации фон Неймана}{12}%
-\contentsline {paragraph}{Обоснование линейной зависимости в normplot}{13}%
-\contentsline {paragraph}{Сравнение скорости моделирования нормального распределения}{14}%
-\contentsline {subsection}{\numberline {4.3}Результаты работы программы}{14}%
-\contentsline {section}{\numberline {5}Задание 5}{14}%
-\contentsline {subsection}{\numberline {5.1}Постановка задачи}{14}%
-\contentsline {subsection}{\numberline {5.2}Теоретическая часть}{15}%
-\contentsline {paragraph}{Доверительный интервал для математического ожидания}{16}%
-\contentsline {paragraph}{Доверительный интервал для дисперсии}{16}%
-\contentsline {paragraph}{Поведение сумм распределения Коши}{16}%
-\contentsline {subsection}{\numberline {5.3}Результаты работы программы}{17}%
-\contentsline {section}{\numberline {6}Задание 6}{17}%
-\contentsline {subsection}{\numberline {6.1}Постановка задачи}{17}%
-\contentsline {subsection}{\numberline {6.2}Теоретическая часть}{18}%
-\contentsline {paragraph}{Метод Монте--Карло}{18}%
-\contentsline {paragraph}{Оценка точности}{19}%
-\contentsline {paragraph}{Метод квадратур}{19}%
-\contentsline {paragraph}{Оценка точности}{20}%
-\contentsline {subsection}{\numberline {6.3}Результаты работы программы}{20}%
-\contentsline {section}{\numberline {7}Задание 7}{20}%
-\contentsline {subsection}{\numberline {7.1}Постановка задачи}{20}%
-\contentsline {subsection}{\numberline {7.2}Теоретическая часть}{21}%
-\contentsline {paragraph}{Метод случайного поиска}{21}%
-\contentsline {paragraph}{Точность метода случайного поиска}{21}%
-\contentsline {paragraph}{Метод имитации отжига}{22}%
-\contentsline {subsection}{\numberline {7.3}Результаты работы программы}{22}%
-\contentsline {subsection}{\numberline {7.4}Результаты работы программы}{22}%
-\contentsline {section}{\numberline {8}Задание 8}{22}%
-\contentsline {subsection}{\numberline {8.1}Постановка задачи}{22}%
-\contentsline {subsection}{\numberline {8.2}Теоретическая часть}{23}%
-\contentsline {paragraph}{Применение метода Монте--Карло}{23}%
-\contentsline {subsection}{\numberline {8.3}Результаты работы программы}{24}%
-\contentsline {section}{\numberline {9}Задание 9}{24}%
-\contentsline {subsection}{\numberline {9.1}Постановка задачи}{24}%
-\contentsline {subsection}{\numberline {9.2}Теоретическая часть}{24}%
-\contentsline {paragraph}{Метод разбиения отрезка}{24}%
-\contentsline {paragraph}{Винеровский процесс}{25}%
-\contentsline {paragraph}{Процесс Орнштейна-Уленбека}{26}%
-\contentsline {subsection}{\numberline {9.3}Результаты работы программы}{28}%
-\contentsline {section}{\numberline {10}Задание 10}{28}%
-\contentsline {subsection}{\numberline {10.1}Постановка задачи}{28}%
-\contentsline {subsection}{\numberline {10.2}Теоретическая часть}{28}%
-\contentsline {paragraph}{Алгоритм работы фильтра Калмана}{28}%
-\contentsline {subsection}{\numberline {10.3}Результаты работы программы}{31}%
-\contentsline {section}{\numberline {11}Задание 11}{31}%
-\contentsline {subsection}{\numberline {11.1}Постановка задачи}{31}%
-\contentsline {subsection}{\numberline {11.2}Теоретическая часть}{31}%
-\contentsline {paragraph}{Моделирование СМО}{31}%
-\contentsline {paragraph}{Моделирование СМО с циклической активностью}{32}%
-\contentsline {paragraph}{Моделирование работы страховой компании}{32}%
-\contentsline {subsection}{\numberline {11.3}Результаты работы программы}{33}%
+\contentsline {paragraph}{Проверка датчика биномиального распределения.}{5}%
+\contentsline {paragraph}{Проверка отсутствия памяти.}{6}%
+\contentsline {paragraph}{Моделирование игры в орлянку.}{6}%
+\contentsline {section}{\numberline {2}Задание 2}{7}%
+\contentsline {subsection}{\numberline {2.1}Постановка задачи}{7}%
+\contentsline {subsection}{\numberline {2.2}Теоретическая часть}{7}%
+\contentsline {paragraph}{Моделирование сингулярного распределения.}{7}%
+\contentsline {paragraph}{Критерий Колмогорова.}{7}%
+\contentsline {paragraph}{Критерий Смирнова.}{8}%
+\contentsline {paragraph}{Моменты сингулярного распределения.}{8}%
+\contentsline {subsection}{\numberline {2.3}Результаты работы программы}{9}%
+\contentsline {paragraph}{Проверка датчика.}{9}%
+\contentsline {paragraph}{Проверка гипотез.}{9}%
+\contentsline {paragraph}{Оценка моментов.}{9}%
+\contentsline {section}{\numberline {3}Задание 3}{10}%
+\contentsline {subsection}{\numberline {3.1}Постановка задачи}{10}%
+\contentsline {subsection}{\numberline {3.2}Теоретическая часть}{10}%
+\contentsline {paragraph}{Экспоненциальное распределение.}{10}%
+\contentsline {paragraph}{Моделирование распределения Пуассона.}{10}%
+\contentsline {paragraph}{Критерий $\chi ^2$ Пирсона.}{11}%
+\contentsline {paragraph}{Моделирование нормального распределения.}{11}%
+\contentsline {paragraph}{Критерий Стьюдента.}{12}%
+\contentsline {paragraph}{Критерий Фишера.}{12}%
+\contentsline {subsection}{\numberline {3.3}Результаты работы программы}{12}%
+\contentsline {paragraph}{Отсутствие последействия экспоненциального распределения.}{12}%
+\contentsline {paragraph}{Распределение $\qopname \relax m{min}(X_1,\ldots , X_n)$.}{12}%
+\contentsline {paragraph}{Критерий Пирсона.}{13}%
+\contentsline {paragraph}{Работа полярного метода}{13}%
+\contentsline {paragraph}{Критерий Стьюдента.}{13}%
+\contentsline {paragraph}{Критерий Фишера.}{14}%
+\contentsline {section}{\numberline {4}Задание 4}{15}%
+\contentsline {subsection}{\numberline {4.1}Постановка задачи}{15}%
+\contentsline {subsection}{\numberline {4.2}Теоретическая часть}{15}%
+\contentsline {paragraph}{Моделирование распределения Коши.}{15}%
+\contentsline {paragraph}{Метод элиминации фон Неймана.}{15}%
+\contentsline {paragraph}{Обоснование линейной зависимости в normplot.}{16}%
+\contentsline {paragraph}{Сравнение скорости моделирования нормального распределения.}{16}%
+\contentsline {subsection}{\numberline {4.3}Результаты работы программы}{16}%
+\contentsline {paragraph}{Датчик распределения Коши}{16}%
+\contentsline {paragraph}{Графики normplot.}{16}%
+\contentsline {paragraph}{Сравнение времени работы датчиков.}{17}%
+\contentsline {section}{\numberline {5}Задание 5}{18}%
+\contentsline {subsection}{\numberline {5.1}Постановка задачи}{18}%
+\contentsline {subsection}{\numberline {5.2}Теоретическая часть}{18}%
+\contentsline {paragraph}{Доверительный интервал для математического ожидания.}{18}%
+\contentsline {paragraph}{Доверительный интервал для дисперсии.}{19}%
+\contentsline {paragraph}{Поведение сумм распределения Коши.}{19}%
+\contentsline {subsection}{\numberline {5.3}Результаты работы программы}{19}%
+\contentsline {paragraph}{Иллюстрация ЗБЧ.}{19}%
+\contentsline {paragraph}{Иллюстрация ЦПТ.}{19}%
+\contentsline {paragraph}{Доверительные интервалы.}{20}%
+\contentsline {paragraph}{Поведение сумм случайных величин, имеющих распределение Коши.}{20}%
+\contentsline {section}{\numberline {6}Задание 6}{21}%
+\contentsline {subsection}{\numberline {6.1}Постановка задачи}{21}%
+\contentsline {subsection}{\numberline {6.2}Теоретическая часть}{21}%
+\contentsline {paragraph}{Метод Монте--Карло.}{21}%
+\contentsline {paragraph}{Оценка точности.}{22}%
+\contentsline {paragraph}{Метод квадратур.}{22}%
+\contentsline {paragraph}{Оценка точности.}{23}%
+\contentsline {subsection}{\numberline {6.3}Результаты работы программы}{23}%
+\contentsline {paragraph}{Вычисление интеграла методом Монте--Карло.}{23}%
+\contentsline {paragraph}{Вычисление интеграла методом квадратур.}{24}%
+\contentsline {section}{\numberline {7}Задание 7}{24}%
+\contentsline {subsection}{\numberline {7.1}Постановка задачи}{24}%
+\contentsline {subsection}{\numberline {7.2}Теоретическая часть}{24}%
+\contentsline {paragraph}{Метод случайного поиска.}{24}%
+\contentsline {paragraph}{Точность метода случайного поиска.}{24}%
+\contentsline {paragraph}{Метод имитации отжига.}{25}%
+\contentsline {subsection}{\numberline {7.3}Результаты работы программы}{25}%
+\contentsline {paragraph}{Метод случайного поиска.}{25}%
+\contentsline {paragraph}{Метод имитации отжига.}{25}%
+\contentsline {paragraph}{Сравнение стохастических методов со стандартными методами оптимизации.}{26}%
+\contentsline {section}{\numberline {8}Задание 8}{27}%
+\contentsline {subsection}{\numberline {8.1}Постановка задачи}{27}%
+\contentsline {subsection}{\numberline {8.2}Теоретическая часть}{27}%
+\contentsline {paragraph}{Применение метода Монте--Карло.}{27}%
+\contentsline {subsection}{\numberline {8.3}Результаты работы программы}{28}%
+\contentsline {section}{\numberline {9}Задание 9}{29}%
+\contentsline {subsection}{\numberline {9.1}Постановка задачи}{29}%
+\contentsline {subsection}{\numberline {9.2}Теоретическая часть}{29}%
+\contentsline {paragraph}{Метод разбиения отрезка.}{29}%
+\contentsline {paragraph}{Винеровский процесс.}{29}%
+\contentsline {paragraph}{Процесс Орнштейна--Уленбека.}{30}%
+\contentsline {subsection}{\numberline {9.3}Результаты работы программы}{31}%
+\contentsline {section}{\numberline {10}Задание 10}{32}%
+\contentsline {subsection}{\numberline {10.1}Постановка задачи}{32}%
+\contentsline {subsection}{\numberline {10.2}Теоретическая часть}{33}%
+\contentsline {paragraph}{Алгоритм работы фильтра Калмана.}{33}%
+\contentsline {subsection}{\numberline {10.3}Результаты работы программы}{33}%
+\contentsline {paragraph}{Нормально распределенная ошибка.}{33}%
+\contentsline {paragraph}{Ошибка имеет распределение Коши.}{34}%
+\contentsline {section}{\numberline {11}Задание 11}{36}%
+\contentsline {subsection}{\numberline {11.1}Постановка задачи}{36}%
+\contentsline {subsection}{\numberline {11.2}Теоретическая часть}{37}%
+\contentsline {paragraph}{Моделирование СМО.}{37}%
+\contentsline {paragraph}{Моделирование СМО с циклической активностью.}{37}%
+\contentsline {paragraph}{Моделирование работы страховой компании.}{38}%
+\contentsline {subsection}{\numberline {11.3}Результаты работы программы}{38}%
+\contentsline {paragraph}{Моделирование СМО.}{38}%
+\contentsline {paragraph}{Моделирование работы страховой компании.}{38}%

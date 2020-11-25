@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.22)  24 NOV 2020 23:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.22)  26 NOV 2020 01:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -640,53 +640,48 @@ LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [2])
+))
 \tf@toc=\write3
 \openout3 = `StochAn_report.toc'.
 
- [3]
+ [2] [3]
 Overfull \hbox (6.70099pt too wide) in paragraph at lines 140--141
 []\T2A/cmr/m/n/10 Экспоненциальное рас-пре-де-ле-ние лег-ко мо-де-ли-ру-ет-ся п
 ри по-мо-щи ме-то-да об-ра-ще-ния функ-
  []
 
 [4]
-<1_1.pdf, id=39, 386.26811pt x 249.44379pt>
+<1_1.pdf, id=39, 386.26811pt x 263.16693pt>
 File: 1_1.pdf Graphic file (type pdf)
 <use 1_1.pdf>
 Package pdftex.def Info: 1_1.pdf  used on input line 184.
-(pdftex.def)             Requested size: 270.38583pt x 174.60945pt.
+(pdftex.def)             Requested size: 270.38583pt x 184.21559pt.
 <1_2.pdf, id=40, 379.88489pt x 263.16693pt>
 File: 1_2.pdf Graphic file (type pdf)
 <use 1_2.pdf>
-Package pdftex.def Info: 1_2.pdf  used on input line 191.
+Package pdftex.def Info: 1_2.pdf  used on input line 193.
 (pdftex.def)             Requested size: 189.94197pt x 131.58315pt.
 <1_3.pdf, id=41, 387.22481pt x 263.16693pt>
 File: 1_3.pdf Graphic file (type pdf)
 <use 1_3.pdf>
-Package pdftex.def Info: 1_3.pdf  used on input line 193.
+Package pdftex.def Info: 1_3.pdf  used on input line 195.
 (pdftex.def)             Requested size: 193.61192pt x 131.58315pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<1_4.pdf, id=42, 386.37788pt x 263.16693pt>
+ [5 <./1_1.pdf>]
+<1_4.pdf, id=85, 386.37788pt x 263.16693pt>
 File: 1_4.pdf Graphic file (type pdf)
 <use 1_4.pdf>
-Package pdftex.def Info: 1_4.pdf  used on input line 199.
+Package pdftex.def Info: 1_4.pdf  used on input line 204.
 (pdftex.def)             Requested size: 270.46268pt x 184.21559pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<1_5.pdf, id=43, 379.88489pt x 249.44379pt>
+<1_5.pdf, id=86, 379.88489pt x 263.16693pt>
 File: 1_5.pdf Graphic file (type pdf)
 <use 1_5.pdf>
-Package pdftex.def Info: 1_5.pdf  used on input line 205.
-(pdftex.def)             Requested size: 265.9176pt x 174.60945pt.
+Package pdftex.def Info: 1_5.pdf  used on input line 210.
+(pdftex.def)             Requested size: 265.9176pt x 184.21559pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./1_1.pdf>] [6 <./1_2.pdf> <./1_3.pdf
+[6 <./1_2.pdf> <./1_3.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./1_3.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
@@ -694,69 +689,64 @@ s with page group included in a single page
 
 pdfTeX warning: /usr/bin/pdflatex (file ./1_4.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [7 <./1_5.pdf>]
-<2_1.pdf, id=190, 387.22481pt x 263.16693pt>
+>] [7 <./1_5.pdf>] [8]
+<2_1.pdf, id=206, 387.22481pt x 263.16693pt>
 File: 2_1.pdf Graphic file (type pdf)
 <use 2_1.pdf>
-Package pdftex.def Info: 2_1.pdf  used on input line 279.
+Package pdftex.def Info: 2_1.pdf  used on input line 289.
 (pdftex.def)             Requested size: 271.0555pt x 184.21559pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<2_2.pdf, id=191, 379.88489pt x 264.50005pt>
+<2_2.pdf, id=207, 379.88489pt x 264.50005pt>
 File: 2_2.pdf Graphic file (type pdf)
 <use 2_2.pdf>
-Package pdftex.def Info: 2_2.pdf  used on input line 285.
+Package pdftex.def Info: 2_2.pdf  used on input line 302.
 (pdftex.def)             Requested size: 189.94197pt x 132.2497pt.
-<2_3.pdf, id=192, 386.26811pt x 264.50005pt>
+<2_3.pdf, id=208, 386.26811pt x 264.50005pt>
 File: 2_3.pdf Graphic file (type pdf)
 <use 2_3.pdf>
-Package pdftex.def Info: 2_3.pdf  used on input line 287.
+Package pdftex.def Info: 2_3.pdf  used on input line 304.
 (pdftex.def)             Requested size: 193.13358pt x 132.2497pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9 <./2_1.pdf> <./2_2.pdf
-
-pdfTeX warning: /usr/bin/pdflatex (file ./2_2.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
-> <./2_3.pdf
+[9 <./2_1.pdf>] [10 <./2_2.pdf> <./2_3.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./2_3.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [10]
-<3_1.pdf, id=299, 379.88489pt x 263.16693pt>
+>] [11]
+<3_1.pdf, id=315, 379.88489pt x 263.16693pt>
 File: 3_1.pdf Graphic file (type pdf)
 <use 3_1.pdf>
-Package pdftex.def Info: 3_1.pdf  used on input line 373.
+Package pdftex.def Info: 3_1.pdf  used on input line 396.
 (pdftex.def)             Requested size: 189.94197pt x 131.58315pt.
-<3_2.pdf, id=300, 390.41641pt x 263.16693pt>
+<3_2.pdf, id=316, 390.41641pt x 263.16693pt>
 File: 3_2.pdf Graphic file (type pdf)
 <use 3_2.pdf>
-Package pdftex.def Info: 3_2.pdf  used on input line 375.
+Package pdftex.def Info: 3_2.pdf  used on input line 398.
 (pdftex.def)             Requested size: 195.20772pt x 131.58315pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3_3.pdf, id=301, 363.91899pt x 249.44379pt>
+<3_3.pdf, id=317, 363.91899pt x 263.16693pt>
 File: 3_3.pdf Graphic file (type pdf)
 <use 3_3.pdf>
-Package pdftex.def Info: 3_3.pdf  used on input line 381.
-(pdftex.def)             Requested size: 254.74155pt x 174.60945pt.
+Package pdftex.def Info: 3_3.pdf  used on input line 407.
+(pdftex.def)             Requested size: 254.74155pt x 184.21559pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3_4.pdf, id=302, 379.88489pt x 249.44379pt>
+[12]
+<3_4.pdf, id=321, 379.88489pt x 263.16693pt>
 File: 3_4.pdf Graphic file (type pdf)
 <use 3_4.pdf>
-Package pdftex.def Info: 3_4.pdf  used on input line 387.
-(pdftex.def)             Requested size: 265.9176pt x 174.60945pt.
+Package pdftex.def Info: 3_4.pdf  used on input line 426.
+(pdftex.def)             Requested size: 265.9176pt x 184.21559pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11] [12 <./3_1.pdf> <./3_2.pdf
+[13 <./3_1.pdf> <./3_2.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./3_2.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
@@ -764,103 +754,102 @@ s with page group included in a single page
 
 pdfTeX warning: /usr/bin/pdflatex (file ./3_3.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [13 <./3_4.pdf>]
-<4_1.pdf, id=423, 379.88489pt x 249.44379pt>
+>] [14 <./3_4.pdf>] [15]
+<4_1.pdf, id=444, 379.88489pt x 263.16693pt>
 File: 4_1.pdf Graphic file (type pdf)
 <use 4_1.pdf>
-Package pdftex.def Info: 4_1.pdf  used on input line 445.
-(pdftex.def)             Requested size: 265.9176pt x 174.60945pt.
-<4_2.pdf, id=424, 384.02534pt x 263.33946pt>
+Package pdftex.def Info: 4_1.pdf  used on input line 498.
+(pdftex.def)             Requested size: 265.9176pt x 184.21559pt.
+<4_2.pdf, id=445, 384.02534pt x 263.33946pt>
 File: 4_2.pdf Graphic file (type pdf)
 <use 4_2.pdf>
-Package pdftex.def Info: 4_2.pdf  used on input line 451.
+Package pdftex.def Info: 4_2.pdf  used on input line 504.
 (pdftex.def)             Requested size: 192.01219pt x 131.6694pt.
-<4_3.pdf, id=425, 384.02534pt x 263.33946pt>
+<4_3.pdf, id=446, 384.02534pt x 263.33946pt>
 File: 4_3.pdf Graphic file (type pdf)
 <use 4_3.pdf>
-Package pdftex.def Info: 4_3.pdf  used on input line 453.
+Package pdftex.def Info: 4_3.pdf  used on input line 506.
 (pdftex.def)             Requested size: 192.01219pt x 131.6694pt.
-<4_4.pdf, id=426, 384.05495pt x 263.33946pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<4_4.pdf, id=447, 384.02534pt x 263.33946pt>
 File: 4_4.pdf Graphic file (type pdf)
 <use 4_4.pdf>
-Package pdftex.def Info: 4_4.pdf  used on input line 459.
-(pdftex.def)             Requested size: 268.83662pt x 184.33635pt.
-
+Package pdftex.def Info: 4_4.pdf  used on input line 512.
+(pdftex.def)             Requested size: 268.8159pt x 184.33635pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<4_5.pdf, id=427, 395.52142pt x 264.67256pt>
+[16 <./4_1.pdf>]
+<4_5.pdf, id=488, 395.52142pt x 264.67256pt>
 File: 4_5.pdf Graphic file (type pdf)
 <use 4_5.pdf>
-Package pdftex.def Info: 4_5.pdf  used on input line 465.
+Package pdftex.def Info: 4_5.pdf  used on input line 522.
 (pdftex.def)             Requested size: 276.8631pt x 185.26952pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 <./4_1.pdf> <./4_2.pdf
-
-pdfTeX warning: /usr/bin/pdflatex (file ./4_2.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
-> <./4_3.pdf
+[17 <./4_2.pdf> <./4_3.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./4_3.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [15 <./4_4.pdf> <./4_5.pdf
+> <./4_4.pdf
 
-pdfTeX warning: /usr/bin/pdflatex (file ./4_5.pdf): PDF inclusion: multiple pdf
+pdfTeX warning: /usr/bin/pdflatex (file ./4_4.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->]
-<5_1.pdf, id=606, 412.74202pt x 264.50005pt>
+>] [18 <./4_5.pdf>]
+<5_1.pdf, id=647, 412.74202pt x 264.50005pt>
 File: 5_1.pdf Graphic file (type pdf)
 <use 5_1.pdf>
-Package pdftex.def Info: 5_1.pdf  used on input line 514.
+Package pdftex.def Info: 5_1.pdf  used on input line 575.
 (pdftex.def)             Requested size: 288.91743pt x 185.14876pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<5_2.pdf, id=607, 386.26811pt x 249.44379pt>
+<5_2.pdf, id=648, 379.88489pt x 263.16693pt>
 File: 5_2.pdf Graphic file (type pdf)
 <use 5_2.pdf>
-Package pdftex.def Info: 5_2.pdf  used on input line 520.
-(pdftex.def)             Requested size: 270.38583pt x 174.60945pt.
+Package pdftex.def Info: 5_2.pdf  used on input line 583.
+(pdftex.def)             Requested size: 265.9176pt x 184.21559pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<5_3.pdf, id=608, 381.90807pt x 264.50005pt>
+<5_3.pdf, id=649, 372.3254pt x 264.50005pt>
 File: 5_3.pdf Graphic file (type pdf)
 <use 5_3.pdf>
-Package pdftex.def Info: 5_3.pdf  used on input line 526.
-(pdftex.def)             Requested size: 190.95355pt x 132.2497pt.
-<5_4.pdf, id=609, 370.3022pt x 264.50005pt>
+Package pdftex.def Info: 5_3.pdf  used on input line 591.
+(pdftex.def)             Requested size: 186.16223pt x 132.2497pt.
+<5_4.pdf, id=650, 370.3022pt x 264.50005pt>
 File: 5_4.pdf Graphic file (type pdf)
 <use 5_4.pdf>
-Package pdftex.def Info: 5_4.pdf  used on input line 528.
+Package pdftex.def Info: 5_4.pdf  used on input line 593.
 (pdftex.def)             Requested size: 185.15063pt x 132.2497pt.
+[19]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<5_5.pdf, id=610, 372.3254pt x 263.16693pt>
+<5_5.pdf, id=655, 363.91899pt x 263.16693pt>
 File: 5_5.pdf Graphic file (type pdf)
 <use 5_5.pdf>
-Package pdftex.def Info: 5_5.pdf  used on input line 534.
-(pdftex.def)             Requested size: 260.62599pt x 184.21559pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<5_6.pdf, id=611, 379.88489pt x 249.44379pt>
+Package pdftex.def Info: 5_5.pdf  used on input line 601.
+(pdftex.def)             Requested size: 181.95905pt x 131.58315pt.
+<5_6.pdf, id=656, 379.88489pt x 263.16693pt>
 File: 5_6.pdf Graphic file (type pdf)
 <use 5_6.pdf>
-Package pdftex.def Info: 5_6.pdf  used on input line 540.
-(pdftex.def)             Requested size: 265.9176pt x 174.60945pt.
+Package pdftex.def Info: 5_6.pdf  used on input line 603.
+(pdftex.def)             Requested size: 189.94197pt x 131.58315pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16] [17 <./5_1.pdf> <./5_2.pdf
+[20 <./5_1.pdf> <./5_2.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./5_2.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [18 <./5_3.pdf> <./5_4.pdf
+>] [21 <./5_3.pdf> <./5_4.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./5_4.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
@@ -868,203 +857,256 @@ s with page group included in a single page
 
 pdfTeX warning: /usr/bin/pdflatex (file ./5_5.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [19 <./5_6.pdf>]
+> <./5_6.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./5_6.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+>]
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 588.
+(amsmath)                 on input line 652.
 
-[20]
-Overfull \hbox (0.82951pt too wide) in paragraph at lines 630--632
+[22]
+<6_1.pdf, id=849, 376.68542pt x 253.2549pt>
+File: 6_1.pdf Graphic file (type pdf)
+<use 6_1.pdf>
+Package pdftex.def Info: 6_1.pdf  used on input line 668.
+(pdftex.def)             Requested size: 376.68451pt x 253.25427pt.
+ [23 <./6_1.pdf>]
+Overfull \hbox (0.62624pt too wide) in paragraph at lines 685--686
+ \T2A/cmr/bx/n/10 Ме-тод слу-чай-но-го по-ис-ка.[] \T2A/cmr/m/n/10 Бу-дем ге-не
+-ри-ро-вать $\OML/cmm/m/it/10 n$ \T2A/cmr/m/n/10 рав-но-мер-но рас-пре-де-лен-н
+ых по окруж-
+ []
+
+[24]
+Overfull \hbox (0.82951pt too wide) in paragraph at lines 708--710
 \T2A/cmr/m/n/10 Выберем чис-ло ис-пы-та-ний так, что-бы хо-тя бы один эле-мент 
 вы-бор-ки ока-зал-ся в $\OML/cmm/m/it/10 ^^N$\T2A/cmr/m/n/10 -окрестности
  []
 
-[21]
-<7_1.pdf, id=826, 401.77939pt x 263.16693pt>
+[25]
+<7_1.pdf, id=901, 401.77939pt x 263.16693pt>
 File: 7_1.pdf Graphic file (type pdf)
 <use 7_1.pdf>
-Package pdftex.def Info: 7_1.pdf  used on input line 651.
+Package pdftex.def Info: 7_1.pdf  used on input line 747.
 (pdftex.def)             Requested size: 281.24365pt x 184.21559pt.
-<7_2.pdf, id=827, 383.6098pt x 249.44379pt>
+<7_2.pdf, id=902, 383.6098pt x 249.44379pt>
 File: 7_2.pdf Graphic file (type pdf)
 <use 7_2.pdf>
-Package pdftex.def Info: 7_2.pdf  used on input line 658.
+Package pdftex.def Info: 7_2.pdf  used on input line 753.
 (pdftex.def)             Requested size: 191.80443pt x 124.72159pt.
-<7_3.pdf, id=828, 389.45187pt x 249.44379pt>
+<7_3.pdf, id=903, 389.45187pt x 249.44379pt>
 File: 7_3.pdf Graphic file (type pdf)
 <use 7_3.pdf>
-Package pdftex.def Info: 7_3.pdf  used on input line 660.
+Package pdftex.def Info: 7_3.pdf  used on input line 755.
 (pdftex.def)             Requested size: 194.72545pt x 124.72159pt.
 
+Overfull \hbox (6.7737pt too wide) in paragraph at lines 759--760
+ \T2A/cmr/bx/n/10 Срав-не-ние сто-ха-сти-че-ских ме-то-дов со стан-дарт-ны-ми м
+е-то-да-ми оп-ти-ми-за-ции.[] \T2A/cmr/m/n/10 При-
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[26 <./7_1.pdf> <./7_2.pdf
 
-[22 <./7_1.pdf>]
-<8_1.pdf, id=865, 250.39496pt x 243.62723pt>
-File: 8_1.pdf Graphic file (type pdf)
-<use 8_1.pdf>
-Package pdftex.def Info: 8_1.pdf  used on input line 715.
-(pdftex.def)             Requested size: 225.35338pt x 219.26247pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<8_2.pdf, id=866, 250.39496pt x 243.62723pt>
-File: 8_2.pdf Graphic file (type pdf)
-<use 8_2.pdf>
-Package pdftex.def Info: 8_2.pdf  used on input line 721.
-(pdftex.def)             Requested size: 225.35338pt x 219.26247pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[23 <./7_2.pdf> <./7_3.pdf
+pdfTeX warning: /usr/bin/pdflatex (file ./7_2.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./7_3.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./7_3.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [24 <./8_1.pdf>] [25 <./8_2.pdf>]
-<9_1.pdf, id=954, 381.90807pt x 249.44379pt>
+>] [27]
+<8_1.pdf, id=996, 250.39496pt x 243.62723pt>
+File: 8_1.pdf Graphic file (type pdf)
+<use 8_1.pdf>
+Package pdftex.def Info: 8_1.pdf  used on input line 820.
+(pdftex.def)             Requested size: 175.27527pt x 170.53789pt.
+<8_2.pdf, id=997, 250.39496pt x 243.62723pt>
+File: 8_2.pdf Graphic file (type pdf)
+<use 8_2.pdf>
+Package pdftex.def Info: 8_2.pdf  used on input line 822.
+(pdftex.def)             Requested size: 175.27527pt x 170.53789pt.
+<8_3.pdf, id=998, 250.39204pt x 243.62723pt>
+File: 8_3.pdf Graphic file (type pdf)
+<use 8_3.pdf>
+Package pdftex.def Info: 8_3.pdf  used on input line 828.
+(pdftex.def)             Requested size: 175.27322pt x 170.53789pt.
+ [28 <./8_1.pdf> <./8_2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./8_2.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+> <./8_3.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./8_3.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+>] [29]
+Overfull \hbox (3.78137pt too wide) in paragraph at lines 905--907
+ \T2A/cmr/bx/n/10 Про-цесс Орнштейна--Уленбека.[] \T2A/cmr/m/n/10 Про-цесс Орнш
+тейна--Уленбека --- это ста-ци-о-нар-ный мар-
+ []
+
+[30]
+<9_1.pdf, id=1039, 381.90807pt x 250.25406pt>
 File: 9_1.pdf Graphic file (type pdf)
 <use 9_1.pdf>
-Package pdftex.def Info: 9_1.pdf  used on input line 844.
-(pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
-<9_2.pdf, id=955, 381.90807pt x 249.44379pt>
+Package pdftex.def Info: 9_1.pdf  used on input line 955.
+(pdftex.def)             Requested size: 267.33382pt x 175.17664pt.
+<9_2.pdf, id=1040, 381.90807pt x 249.44379pt>
 File: 9_2.pdf Graphic file (type pdf)
 <use 9_2.pdf>
-Package pdftex.def Info: 9_2.pdf  used on input line 850.
+Package pdftex.def Info: 9_2.pdf  used on input line 961.
 (pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
-<9_3.pdf, id=956, 373.50166pt x 249.44379pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<9_3.pdf, id=1041, 372.3254pt x 249.44379pt>
 File: 9_3.pdf Graphic file (type pdf)
 <use 9_3.pdf>
-Package pdftex.def Info: 9_3.pdf  used on input line 856.
-(pdftex.def)             Requested size: 261.44937pt x 174.60945pt.
- [26] [27 <./9_1.pdf> <./9_2.pdf
+Package pdftex.def Info: 9_3.pdf  used on input line 967.
+(pdftex.def)             Requested size: 260.62599pt x 174.60945pt.
 
-pdfTeX warning: /usr/bin/pdflatex (file ./9_2.pdf): PDF inclusion: multiple pdf
-s with page group included in a single page
-> <./9_3.pdf
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31 <./9_1.pdf>] [32 <./9_2.pdf> <./9_3.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./9_3.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->] [28]
-<10_1.pdf, id=1010, 381.90807pt x 249.44379pt>
+>]
+<10_1.pdf, id=1154, 381.90807pt x 249.44379pt>
 File: 10_1.pdf Graphic file (type pdf)
 <use 10_1.pdf>
-Package pdftex.def Info: 10_1.pdf  used on input line 906.
+Package pdftex.def Info: 10_1.pdf  used on input line 1023.
 (pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
-<10_2.pdf, id=1011, 388.29129pt x 249.44379pt>
+<10_2.pdf, id=1155, 388.29129pt x 249.44379pt>
 File: 10_2.pdf Graphic file (type pdf)
 <use 10_2.pdf>
-Package pdftex.def Info: 10_2.pdf  used on input line 912.
+Package pdftex.def Info: 10_2.pdf  used on input line 1025.
 (pdftex.def)             Requested size: 271.80203pt x 174.60945pt.
-<10_3.pdf, id=1012, 381.90807pt x 249.44379pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<10_3.pdf, id=1156, 381.90807pt x 249.44379pt>
 File: 10_3.pdf Graphic file (type pdf)
 <use 10_3.pdf>
-Package pdftex.def Info: 10_3.pdf  used on input line 918.
+Package pdftex.def Info: 10_3.pdf  used on input line 1031.
 (pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
-<10_4.pdf, id=1013, 388.29129pt x 251.71657pt>
-File: 10_4.pdf Graphic file (type pdf)
-<use 10_4.pdf>
-Package pdftex.def Info: 10_4.pdf  used on input line 924.
-(pdftex.def)             Requested size: 271.80203pt x 176.20038pt.
-<10_5.pdf, id=1014, 381.90807pt x 249.44379pt>
-File: 10_5.pdf Graphic file (type pdf)
-<use 10_5.pdf>
-Package pdftex.def Info: 10_5.pdf  used on input line 930.
-(pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
-<10_6.pdf, id=1015, 381.90807pt x 249.44379pt>
-File: 10_6.pdf Graphic file (type pdf)
-<use 10_6.pdf>
-Package pdftex.def Info: 10_6.pdf  used on input line 936.
-(pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
- [29 <./10_1.pdf> <./10_2.pdf
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33] [34 <./10_1.pdf> <./10_2.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./10_2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] [30 <./10_3.pdf> <./10_4.pdf
+>]
+<10_4.pdf, id=1227, 388.29129pt x 251.71657pt>
+File: 10_4.pdf Graphic file (type pdf)
+<use 10_4.pdf>
+Package pdftex.def Info: 10_4.pdf  used on input line 1041.
+(pdftex.def)             Requested size: 271.80203pt x 176.20038pt.
+<10_5.pdf, id=1228, 381.90807pt x 249.44379pt>
+File: 10_5.pdf Graphic file (type pdf)
+<use 10_5.pdf>
+Package pdftex.def Info: 10_5.pdf  used on input line 1046.
+(pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<10_6.pdf, id=1229, 381.90807pt x 249.44379pt>
+File: 10_6.pdf Graphic file (type pdf)
+<use 10_6.pdf>
+Package pdftex.def Info: 10_6.pdf  used on input line 1052.
+(pdftex.def)             Requested size: 267.33382pt x 174.60945pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35 <./10_3.pdf> <./10_4.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./10_4.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
-> <./10_5.pdf
+>] [36 <./10_5.pdf> <./10_6.pdf
 
-pdfTeX warning: /usr/bin/pdflatex (file ./10_5.pdf): PDF inclusion: multiple pd
+pdfTeX warning: /usr/bin/pdflatex (file ./10_6.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] [31 <./10_6.pdf>]
-LaTeX Font Info:    Trying to load font information for U+bbm on input line 966
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+>]
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 108
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
-) [32]
-<11_1.pdf, id=1224, 377.64214pt x 263.16693pt>
+) [37]
+<11_1.pdf, id=1370, 377.64214pt x 263.16693pt>
 File: 11_1.pdf Graphic file (type pdf)
 <use 11_1.pdf>
-Package pdftex.def Info: 11_1.pdf  used on input line 1007.
+Package pdftex.def Info: 11_1.pdf  used on input line 1127.
 (pdftex.def)             Requested size: 264.34769pt x 184.21559pt.
-<11_2.pdf, id=1225, 393.60803pt x 263.16693pt>
+<11_2.pdf, id=1371, 393.60803pt x 263.16693pt>
 File: 11_2.pdf Graphic file (type pdf)
 <use 11_2.pdf>
-Package pdftex.def Info: 11_2.pdf  used on input line 1013.
+Package pdftex.def Info: 11_2.pdf  used on input line 1133.
 (pdftex.def)             Requested size: 275.52374pt x 184.21559pt.
-<11_3.pdf, id=1226, 377.64214pt x 263.16693pt>
+<11_3.pdf, id=1372, 377.64214pt x 263.16693pt>
 File: 11_3.pdf Graphic file (type pdf)
 <use 11_3.pdf>
-Package pdftex.def Info: 11_3.pdf  used on input line 1019.
+Package pdftex.def Info: 11_3.pdf  used on input line 1139.
 (pdftex.def)             Requested size: 264.34769pt x 184.21559pt.
-<11_4.pdf, id=1227, 384.02534pt x 263.89923pt>
+<11_4.pdf, id=1373, 384.02534pt x 263.89923pt>
 File: 11_4.pdf Graphic file (type pdf)
 <use 11_4.pdf>
-Package pdftex.def Info: 11_4.pdf  used on input line 1025.
+Package pdftex.def Info: 11_4.pdf  used on input line 1145.
 (pdftex.def)             Requested size: 268.8159pt x 184.7282pt.
-<11_5.pdf, id=1228, 384.02534pt x 263.16693pt>
+<11_5.pdf, id=1374, 384.02534pt x 263.16693pt>
 File: 11_5.pdf Graphic file (type pdf)
 <use 11_5.pdf>
-Package pdftex.def Info: 11_5.pdf  used on input line 1031.
+Package pdftex.def Info: 11_5.pdf  used on input line 1155.
 (pdftex.def)             Requested size: 268.8159pt x 184.21559pt.
-<11_6.pdf, id=1229, 384.02534pt x 263.94931pt>
+<11_6.pdf, id=1375, 384.02534pt x 263.94931pt>
 File: 11_6.pdf Graphic file (type pdf)
 <use 11_6.pdf>
-Package pdftex.def Info: 11_6.pdf  used on input line 1037.
+Package pdftex.def Info: 11_6.pdf  used on input line 1161.
 (pdftex.def)             Requested size: 268.8159pt x 184.76324pt.
-<11_7.pdf, id=1230, 390.40857pt x 263.16693pt>
+<11_7.pdf, id=1376, 390.40857pt x 263.16693pt>
 File: 11_7.pdf Graphic file (type pdf)
 <use 11_7.pdf>
-Package pdftex.def Info: 11_7.pdf  used on input line 1043.
+Package pdftex.def Info: 11_7.pdf  used on input line 1167.
 (pdftex.def)             Requested size: 273.28413pt x 184.21559pt.
-<11_8.pdf, id=1231, 390.40857pt x 263.16693pt>
+<11_8.pdf, id=1377, 390.40857pt x 263.16693pt>
 File: 11_8.pdf Graphic file (type pdf)
 <use 11_8.pdf>
-Package pdftex.def Info: 11_8.pdf  used on input line 1049.
+Package pdftex.def Info: 11_8.pdf  used on input line 1173.
 (pdftex.def)             Requested size: 273.28413pt x 184.21559pt.
- [33 <./11_1.pdf> <./11_2.pdf
+ [38]
+[39 <./11_1.pdf> <./11_2.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./11_2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] [34 <./11_3.pdf> <./11_4.pdf
+> <./11_3.pdf
 
-pdfTeX warning: /usr/bin/pdflatex (file ./11_4.pdf): PDF inclusion: multiple pd
+pdfTeX warning: /usr/bin/pdflatex (file ./11_3.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
-> <./11_5.pdf
+>] [40 <./11_4.pdf> <./11_5.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./11_5.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] [35 <./11_6.pdf> <./11_7.pdf
+> <./11_6.pdf
 
-pdfTeX warning: /usr/bin/pdflatex (file ./11_7.pdf): PDF inclusion: multiple pd
+pdfTeX warning: /usr/bin/pdflatex (file ./11_6.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
-> <./11_8.pdf
+>] [41 <./11_7.pdf> <./11_8.pdf
 
 pdfTeX warning: /usr/bin/pdflatex (file ./11_8.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] [36] (./StochAn_report.aux) ) 
+>] [42] (./StochAn_report.aux) ) 
 Here is how much of TeX's memory you used:
- 5846 strings out of 481239
- 78250 string characters out of 5920376
- 333601 words of memory out of 5000000
- 20915 multiletter control sequences out of 15000+600000
+ 5859 strings out of 481239
+ 78430 string characters out of 5920376
+ 331605 words of memory out of 5000000
+ 20926 multiletter control sequences out of 15000+600000
  552663 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,45p,1117b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,8n,45p,1117b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/mr_giraffe/.texlive2019/texmf-var/fonts
 /pk/ljfour/public/bbm/bbm10.600pk>{/usr/share/texmf/fonts/enc/dvips/cm-super/cm
 -super-t2a.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</us
@@ -1091,10 +1133,10 @@ sr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on StochAn_report.pdf (36 pages, 3855791 bytes).
+Output written on StochAn_report.pdf (42 pages, 3955016 bytes).
 PDF statistics:
- 1569 PDF objects out of 1728 (max. 8388607)
- 486 compressed objects within 5 object streams
+ 1721 PDF objects out of 1728 (max. 8388607)
+ 516 compressed objects within 6 object streams
  0 named destinations out of 1000 (max. 500000)
- 231 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 
